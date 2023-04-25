@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Define host and port to listen on
-HOST = '75.135.196.217'
+HOST = '192.168.2.151'
 PORT = 25565
 
 # Create a socket object
